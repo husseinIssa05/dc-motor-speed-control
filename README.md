@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/sinusoidal_tracking.png" width="700">
+</p>
 # DC Motor Speed Control Using a PI + Lead Controller
 
 A simulation-based control systems project focused on the modeling, analysis, and control of a DC motor using MATLAB and Simulink. The project demonstrates the complete engineering workflow from mathematical modeling to controller design, disturbance rejection, robustness analysis, and reference tracking.
@@ -145,4 +148,4 @@ Interested in:
 - Automation
 
 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/hussein-issa-90a560358
